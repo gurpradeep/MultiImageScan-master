@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Scanner", "Scanner\Scanner.pyproj", "{39638ACA-21CF-46FD-AE24-0EE19A2584DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39638ACA-21CF-46FD-AE24-0EE19A2584DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39638ACA-21CF-46FD-AE24-0EE19A2584DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB84BBBE-C6A0-4DC5-8960-1C3F08616889}
+	EndGlobalSection
+EndGlobal
